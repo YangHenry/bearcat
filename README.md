@@ -1,4 +1,4 @@
-﻿## 这是一个文库下载C#源代码的GitHub项目
+﻿## 这是一个文库下载C#源代码
 
 这是源代码地址 https://github.com/YangHenry/bearcat ，欢迎访问。
 
@@ -10,4 +10,3 @@
     Git协议: git://github.com/YangHenry/bearcat.git 。
     SSH协议: ssh://git@github.com/YangHenry/bearcat.git 。
     
-本
