@@ -1,4 +1,4 @@
-﻿## 这是一个关于文库下载的C#源代码
+﻿## 这是一个关于文库下载的PHP源代码
 
 这是源代码地址 https://github.com/YangHenry/bearcat ，欢迎访问。
 
